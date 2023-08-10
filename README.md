@@ -2,7 +2,7 @@
 
 
 
-This project is one of the assessments for my Master in Applied Cybernetics course. This is a part of a larger installation that was presented on the School of Cybernetics Demo Day.
+This project is one of the assessments for the Master in Applied Cybernetics course at ANU. This is a part of a larger installation that was presented on the School of Cybernetics Demo Day.
 
 In this installation titled <i>'Someone, I tell you, in another time, will remember us,'</i>  aims to celebrate the voices and works of three remarkable women: Hildegard of Bingen, Sophie Parnok and R.A Kartini.
 
