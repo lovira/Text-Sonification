@@ -1,5 +1,6 @@
 # Text Sonification
 
+Note: The python scripts will be uploaded at some point in the future.
 
 
 This project is one of the assessments for the Master in Applied Cybernetics course at ANU. This is a part of a larger installation that was presented on the School of Cybernetics Demo Day.
